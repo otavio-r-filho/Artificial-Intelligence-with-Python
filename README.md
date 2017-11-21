@@ -1,6 +1,6 @@
 # IMPORTANT!
 
-This repository has not been created by me, it's part of the book "Hands-On Machine Learning with Scikit-Learn and TensorFlow" and has been cloned by me for learning purposes. The original repository is can found in the following addess: [https://github.com/PacktPublishing/Artificial-Intelligence-with-Python.git](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python.git)
+This repository has not been created by me, it's part of the book "Artificial Intelligence with Python" and has been cloned by me for learning purposes. The original repository is can found in the following addess: [https://github.com/PacktPublishing/Artificial-Intelligence-with-Python.git](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python.git)
 
 # Artificial Intelligence with Python
 This is the code repository for [Artificial Intelligence with Python](https://www.packtpub.com/big-data-and-business-intelligence/artificial-intelligence-python?utm_source=github&utm_medium=repository&utm_campaign=9781786464392), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
